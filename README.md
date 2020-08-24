@@ -1,2 +1,4 @@
 # Data-Capstone
-This repository details a final capstone project for a data science professional certificate. It also includes Week 1-3 assignments.
+This repository details a final capstone project for a IBM Data Science Professional Certificate.
+It holds Python code, the final report and presentation.
+It also holds Week 3 Assignment.
